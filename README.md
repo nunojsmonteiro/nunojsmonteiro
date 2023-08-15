@@ -1,5 +1,5 @@
 
-![Black Illustration Digital Marketing Linkedin Article Cover Image (4)](https://github.com/nunojsmonteiro/nunojsmonteiro/assets/132381549/7143c473-68ab-4696-a213-ed31d9632768)
+![Black Illustration Digital Marketing Linkedin Article Cover Image (4)](https://github.com/nunojsmonteiro/nunojsmonteiro/assets/132381549/0a17b71e-08da-46bc-8462-b45ff365d86e)
 
 # Hi there 👋, I'm Nuno Santos Monteiro
 I'm Nuno from Portugal and I just started this adventure in the web development in 2023. I worked in Sales before but decided to study a bootcamp for this switch. I'm really into to learn more about React and TypeScript
