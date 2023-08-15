@@ -4,7 +4,7 @@ I'm Nuno from Portugal and I just started this adventure in the web development 
 #### Frontend
 ## Skills and Experience
 + ⚛ React
-+ 💻 JS / TS / NODE.JS / EXPRESS / HTML / CSS
++ 💻 JS / TS / Node.JS / Express / HTML / CSS
 
 
 - 🌱 I’m currently learning TypeScript 
